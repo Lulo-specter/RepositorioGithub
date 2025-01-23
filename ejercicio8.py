@@ -1,3 +1,5 @@
+print("\n-----------Venta de Zapallos-----------")
+
 precio_por_kg = 1000
 descuentos = {
     "dolares": 0.05,
